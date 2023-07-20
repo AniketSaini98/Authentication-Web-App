@@ -100,11 +100,12 @@ The system includes a "Forgot Password" feature that allows users to reset their
 
 ## Technologies Used
 
-<img src="/assets/images/mongodb.png" alt="MongoDB">
-<img src="/assets/images/expressjs1.png" alt="ExpressJS">
-<img src="/assets/images/nodejs.png" alt="NodeJS" width="220" height="100"> <br>
-<img src="/assets/images/passport2.svg" alt="PassportJS">
-<img src="/assets/images/bootstrap.png" alt="Bootstrap">
+![MongoDB](/assets/images/mongodb_icon.png)
+![ExpressJS](/assets/images/express_icon.png)
+![NodeJS](/assets/images/node_icon.png)
+![PassportJS](/assets/images/passport_icon.png)
+![Bootstrap](/assets/images/bootstrap_icon.png)
+
 
 ## Important Note
 
