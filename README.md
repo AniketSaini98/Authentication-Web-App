@@ -100,4 +100,16 @@ The system includes a "Forgot Password" feature that allows users to reset their
 
 ## Technologies Used
 
-! [MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
+![MongoDB](mongodb.svg)
+![ExpressJS](expressjs.svg)
+![NodeJS](nodejs.svg)
+![PassportJS](passport.png)
+![Bootstrap](bootstrap.svg)
+
+## Important Note
+
+Please ensure not to include any passwords or sensitive information in your git commits. Use environment variables and a .env file to manage sensitive data.
+
+# Demo
+
+[NodeJS Authentication](https://auth-web-app-aniket.onrender.com)
