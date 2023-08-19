@@ -106,6 +106,20 @@ The system includes a "Forgot Password" feature that allows users to reset their
 ![PassportJS](/assets/images/passport_icon.png)
 ![Bootstrap](/assets/images/bootstrap_icon.png)
 
+## Screenshots
+
+### Landing Page
+![Alt text](/assets/Landing_Page.png)
+
+### Login Page
+![Alt text](/assets/Login_Page.png)
+
+### Register New User Page
+![Alt text](/assets/Register_New_User_Page.png)
+
+### Forgot Password Page
+![Alt text](/assets/Forgot_Password_Page.png)
+
 
 ## Important Note
 
